@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "name": "团队 A",
+      "description": "这是团队 A 的描述",
+      "createdAt": "2023-12-01T10:00:00Z",
+      "members": [
+        { "id": 101, "name": "张三", "role": "管理员", "email": "zhangsan@example.com" },
+        { "id": 102, "name": "李四", "role": "成员", "email": "lisi@example.com" }
+      ],
+      "projects": [
+        { "id": 201, "name": "项目 Alpha", "status": "进行中" },
+        { "id": 202, "name": "项目 Beta", "status": "已完成" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "团队 B",
+      "description": "这是团队 B 的描述",
+      "createdAt": "2023-11-15T15:30:00Z",
+      "members": [
+        { "id": 103, "name": "王五", "role": "管理员", "email": "wangwu@example.com" },
+        { "id": 104, "name": "赵六", "role": "成员", "email": "zhaoliu@example.com" }
+      ],
+      "projects": [
+        { "id": 203, "name": "项目 Gamma", "status": "待启动" }
+      ]
+    }
+  ]

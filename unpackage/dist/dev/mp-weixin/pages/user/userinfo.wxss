@@ -1,0 +1,80 @@
+
+/* 页面整体样式 */
+.profile-page.data-v-103261b1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20rpx;
+  background-color: #f5f5f5;
+  min-height: 100vh;
+}
+
+/* 头部样式 */
+.header.data-v-103261b1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 40rpx;
+}
+.avatar.data-v-103261b1 {
+  width: 150rpx;
+  height: 150rpx;
+  border-radius: 50%;
+  margin-bottom: 20rpx;
+  background-color: #ddd;
+}
+.username.data-v-103261b1 {
+  font-size: 36rpx;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10rpx;
+}
+.role.data-v-103261b1 {
+  font-size: 28rpx;
+  color: #666;
+}
+
+/* 信息展示样式 */
+.info-section.data-v-103261b1 {
+  width: 100%;
+  background-color: #fff;
+  border-radius: 10rpx;
+  padding: 20rpx;
+  box-shadow: 0 2rpx 10rpx rgba(0, 0, 0, 0.1);
+  margin-bottom: 40rpx;
+}
+.info-item.data-v-103261b1 {
+  display: flex;
+  justify-content: space-between;
+  padding: 20rpx 0;
+  border-bottom: 1rpx solid #eee;
+}
+.info-item.data-v-103261b1:last-child {
+  border-bottom: none;
+}
+.label.data-v-103261b1 {
+  font-size: 30rpx;
+  color: #333;
+}
+.value.data-v-103261b1 {
+  font-size: 30rpx;
+  color: #666;
+}
+
+/* 按钮样式 */
+.actions.data-v-103261b1 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.btn.data-v-103261b1 {
+  width: 80%;
+  padding: 20rpx;
+  font-size: 32rpx;
+  text-align: center;
+  border-radius: 10rpx;
+}
+.logout-btn.data-v-103261b1 {
+  background-color: #ff4d4f;
+  color: #fff;
+}

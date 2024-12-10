@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "uni-ap",
+  "usingComponents": {
+    "custom-navbar": "../../components/custom-navbar/custom-navbar",
+    "calendar": "../../components/calendar/calendar",
+    "taskitem": "../../components/taskitem/taskitem"
+  }
+}

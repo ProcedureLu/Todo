@@ -1,0 +1,16 @@
+
+input.data-v-6163e5ce {
+  margin: 10px;
+  padding: 8px;
+}
+button.data-v-6163e5ce {
+  padding: 10px 20px;
+}
+.register-link.data-v-6163e5ce {
+  text-align: center;
+  margin-top: 10px;
+}
+.link.data-v-6163e5ce {
+  color: #007aff;
+  cursor: pointer;
+}

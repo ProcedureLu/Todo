@@ -1,0 +1,9 @@
+
+.menu-list.data-v-0fb0f563 {
+	  width: 100%;
+	  margin-top: 20px;
+}
+.menu-item.data-v-0fb0f563 {
+	  padding: 10px;
+	  border-bottom: 1px solid #eee;
+}

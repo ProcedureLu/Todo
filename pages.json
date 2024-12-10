@@ -1,0 +1,93 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-ap"
+			}
+		},
+		{
+			"path" : "pages/team/teaminfo",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/team/teamsmanage",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/user/user",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/user/login",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/user/register",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/user/userinfo",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/search/search/search",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		}
+	],
+	 "tabBar": {
+	    "color": "#7A7E83",
+	    "selectedColor": "#3CC51F",
+	    "backgroundColor": "#ffffff",
+	    "borderStyle": "black",
+	    "list": [
+	      {
+	        "pagePath": "pages/index/index",
+	        "text": "首页"
+	        // "iconPath": "static/icons/home.png",
+	        // "selectedIconPath": "static/icons/home-active.png"
+	      },
+	      {
+	        "pagePath": "pages/team/teaminfo",
+	        "text": "团队"
+	        // "iconPath": "static/icons/settings.png",
+	        // "selectedIconPath": "static/icons/settings-active.png"
+	      },
+	      {
+	        "pagePath": "pages/user/user",
+	        "text": "个人中心"
+	        // "iconPath": "static/icons/profile.png",
+	        // "selectedIconPath": "static/icons/profile-active.png"
+	      }
+	    ]
+	  },
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"navigationStyle": "custom",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}

@@ -1,0 +1,25 @@
+ [
+    {
+      "id": 1,
+      "title": "团队任务 1",
+      "description": "完成团队 A 的需求分析",
+      "status": "待办",
+      "priority": "高",
+      "dueDate": "2023-12-15T18:00:00Z",
+      "assignedTo": [
+        { "id": 101, "name": "张三" },
+        { "id": 102, "name": "李四" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "团队任务 2",
+      "description": "完成团队 B 的代码评审",
+      "status": "已完成",
+      "priority": "中",
+      "dueDate": "2023-12-10T12:00:00Z",
+      "assignedTo": [
+        { "id": 103, "name": "王五" }
+      ]
+    }
+  ]

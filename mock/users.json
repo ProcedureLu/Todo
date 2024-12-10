@@ -1,0 +1,18 @@
+[
+    {
+		"id": 1,
+        "username": "testUser1",
+        "password": "testpw",
+		"email": "testuser1@example.com",
+		"role": "user",
+		"token": "testtoken_user1"
+    },
+    {
+        "id": 2,
+        "username": "testUser2",
+        "password": "testpw",
+        "email": "testuser2@example.com",
+        "role": "admin",
+        "token": "testtoken_user2"
+    }
+]

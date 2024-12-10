@@ -1,0 +1,1 @@
+<view class="task-card data-v-026cee52" bindtap="{{g}}"><view class="task-title data-v-026cee52">{{a}}</view><view class="task-desc data-v-026cee52">{{b}}</view><view class="task-meta data-v-026cee52"><text wx:if="{{c}}" class="data-v-026cee52">截止日期: {{d}}</text><text wx:if="{{e}}" class="data-v-026cee52">负责人: {{f}}</text></view></view>
